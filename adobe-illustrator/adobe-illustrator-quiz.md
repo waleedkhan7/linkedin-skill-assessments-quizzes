@@ -13,7 +13,7 @@
 
 ![Add stars](images/006.png?raw=true)
 
-- [ ] Select the Screen blending mode before you brush.
+- [x] Select the Screen blending mode before you brush.
 - [ ] Select the circle and click the Draw Inside button on the toolbar before you brush.
 - [ ] Add a fixed spacing value in the Scatter Brush options.
 - [ ] Select the brush stroke and the circle and make a compound path.
@@ -21,11 +21,11 @@
 #### Q3. Why would you use the Save Selection command?
 - [ ] to preserve vector copies of objects you plan to rasterize
 - [ ] to save copies of selected objects in a new file
-- [ ] to preserve a selection of objects you may use again
+- [x] to preserve a selection of objects you may use again
 - [ ] to save selected objects in a Creative Cloud library
 
 #### Q4. Which action closes a path when you are actively drawing with the Pen tool?
-- [ ] clicking or dragging the first point in the path
+- [x] clicking or dragging the first point in the path
 - [ ] choosing Object > Path > Join
 - [ ] pressing Return (Mac) or Enter (Windows)
 - [ ] switching to a different tool
@@ -38,7 +38,7 @@
 - [ ] 3D Revolve
 
 #### Q6. When multiple objects are selected, how do you deselect just one of them?
-- [ ] Hold down the Option (Mac) or Alt (Windows) key and click the object you want to deselect.
+- [x] Hold down the Option (Mac) or Alt (Windows) key and click the object you want to deselect.
 - [ ] Use the Lasso tool to deselect the unwanted object.
 - [ ] Shift-click the object you want to deselect
 - [ ] Press Command+Shift+A (Mac) or Ctrl+Shift+A (Windows) and click the object you want to deselect.
@@ -82,7 +82,7 @@
 - [ ] Switch to any other workspace, and then switch back to Essentials.
 - [ ] Quit Illustrator, press and hold Command+Shift+Option (Mac) or Ctrl+Shift+Alt (Windows), and relaunch Illustrator.
 - [ ] Choose Reset Essentials from the Workspace menu or the workspace switcher.
-- [ ] Quit and relaunch Illustrator.
+- [x] Quit and relaunch Illustrator.
 
 #### Q13. Your boss likes the new logo you've designed but would like to see some variations using different color schemes. Which feature could you use to generate these variations quickly?
 - [ ] Variables
@@ -128,7 +128,7 @@
 
 #### Q20. You're working with a pen tablet and find that using the Ellipse, Rectangle, and Polygon tools to create objects is somewhat awkward. Which tool would allow you to draw, move, and edit these shapes with intuitive gestures?
 - [ ] the Smooth tool
-- [ ] the Shape Builder tool
+- [x] the Shape Builder tool
 - [ ] the Pencil tool
 - [ ] the Shaper tool
 
@@ -172,7 +172,7 @@
 - [ ] The Alana fonts are deactivated.
 - [ ] The Alana fonts are for web-only use.
 - [ ] The Alana fonts are currently being activated.
-- [ ] Not all the fonts in the Alana family are activated.
+- [x] Not all the fonts in the Alana family are activated.
 
 #### Q27. What command would you apply to make objects beneath the selected artwork visible inside the circle?
 
@@ -193,7 +193,7 @@
 - [ ] Any control handles are removed, converting the point into a corner point.
 - [ ] The path is split at that point.
 - [ ] The point is deleted.
-- [ ] The point is selected.
+- [x] The point is selected.
 
 #### Q30. When creating a mesh object, when should you use the Mesh tool instead of the Create Gradient Mesh command in the Object menu?
 - [ ] when you want to create simpler meshes so the performance of Illustrator is not negatively affected
@@ -208,7 +208,7 @@
 - [ ] It has been converted to outlines.
 - [ ] It is live text.
 - [ ] It is a compound path.
-- [ ] It has a fill color of black.
+- [x] It has a fill color of black.
 
 #### Q32. You would like the columns in a chart to cover the whole length of the category axis. What option would you choose?
 - [ ] In the Graph Type dialog, choose Category Axis and set the Tick Marks option to Full Width.
@@ -270,7 +270,7 @@
 #### Q41. You are working with an Illustrator file that includes a linked Photoshop file. Your client sends a new Photoshop file with a different name and asks you to replace the old one in the Illustrator file. Which command in the Links panel would you use to accomplish this?
 - [ ] Placement Options
 - [ ] Edit Original
-- [ ] Update Link
+- [x] Update Link
 - [ ] Relink
 
 #### Q42. The fill colors of several instances of a dynamic symbol have been modified. What is the fastest way to return the fill color in every instance to its original appearance?
